@@ -1,7 +1,6 @@
 # This is a simple Streamlit script.
 import streamlit as st
 import pandas as pd
-import plotly.express as px
 
 
 def main():
